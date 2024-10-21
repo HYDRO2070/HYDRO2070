@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydro2070&show_icons=true&locale=en&layout=compact" alt="hydro2070" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hydro2070&show_icons=true&locale=en" alt="hydro2070" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydro2070&" alt="hydro2070" /></p>
