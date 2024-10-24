@@ -7,26 +7,22 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HYDRO2070](https://github.com/HYDRO2070)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/HYDRO2070)
 
-- 💬 Ask me about **Data structures and algorithms**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **s9098544118@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SH1alk8sOig5wwf7tifFwRkPcjvnrl_m/view?usp=drivesdk](https://drive.google.com/file/d/1SH1alk8sOig5wwf7tifFwRkPcjvnrl_m/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think, I am funny**
+- 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1SH1alk8sOig5wwf7tifFwRkPcjvnrl_m/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hydro2070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hydro2070" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashankpandey2070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankpandey2070" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21217446/shashank-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21217446/shashank-pandey" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hydro2070" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hydro2070" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hydro2070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hydro2070" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s9098544118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s9098544118" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hydro2070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydro2070" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@hydro2070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hydro2070" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/s90985pcxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="s90985pcxa" height="30" width="40" /></a>
 <a href="https://discord.gg/YThZ2vhX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YThZ2vhX" height="30" width="40" /></a>
 </p>
