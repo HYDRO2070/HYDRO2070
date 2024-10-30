@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydro2070" alt="hydro2070" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Three.Js**
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/HYDRO2070)
 
