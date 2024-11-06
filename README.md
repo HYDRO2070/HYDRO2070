@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **s9098544118@gmail.com**
+- 📫 How to reach me [HERE](s9098544118@gmail.com)
 
 - 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1SH1alk8sOig5wwf7tifFwRkPcjvnrl_m/view?usp=drivesdk)
 
