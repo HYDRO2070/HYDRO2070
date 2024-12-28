@@ -20,7 +20,6 @@
 <a href="https://www.hackerrank.com/hydro2070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hydro2070" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s9098544118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s9098544118" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hydro2070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydro2070" height="30" width="40" /></a>
-<a href="https://discord.gg/YThZ2vhX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YThZ2vhX" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
