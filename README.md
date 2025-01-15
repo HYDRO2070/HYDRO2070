@@ -1,7 +1,11 @@
 # 👋 Hi, I'm **Shashank Pandey**!
 
+![Shashank's Profile](https://avatars.githubusercontent.com/u/101212370?v=4)
+
 ### 🌱 **Programmer | Developer | Learner**  
 I'm passionate about coding, building innovative solutions, and continuously learning. Currently diving deep into **Three.js**!
+
+![Animated Banner](https://media.giphy.com/media/Yl43d90XMPvko/giphy.gif)
 
 ---
 
@@ -38,14 +42,12 @@ I work with a variety of tools and technologies to build efficient solutions. He
 
 ### 📊 **GitHub Stats**
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydro2070&show_icons=true&locale=en&count_private=true&hide=prs&theme=github_dark" alt="Shashank's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydro2070&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hydro2070&show_icons=true&count_private=true&theme=radical)
 
 ---
 
-Thanks for checking out my profile. Stay tuned for more updates! 😊
+### 📈 **GitHub Contributions**
+
+![Shashank's Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=hydro2070&theme=github&hide_border=true)
+
+
