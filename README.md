@@ -1,14 +1,16 @@
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=HYDRO2070">
+</a>
+<a href="https://github.com/HYDRO2070?tab=followers"><img src="https://img.shields.io/github/followers/HYDRO2070?label=Followers&style=social" alt="GitHub Badge"></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Shashank Pandey</b></h1>
 
 ### 🌱 **Programmer | Developer | Learner**  
 I'm passionate about coding, building innovative solutions, and continuously learning. Currently diving deep into **Three.js**!
 
----
-
+<br/>
 ### 📫 **Reach Out**  
 You can reach me via [Email](mailto:s9098544118@gmail.com) or via my social profiles below:
-
----
+<br/>
 
 ### 📡 **Connect with Me**
 
@@ -18,11 +20,11 @@ You can reach me via [Email](mailto:s9098544118@gmail.com) or via my social prof
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC8?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/s9098544118)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/hydro2070)
 
----
-
-### 🛠️ **Languages & Tools**
+<br/>
+### 🛠️ **Languages & Tools**  
 I work with a variety of tools and technologies to build efficient solutions. Here’s a quick look at my skill set:
 
+![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -33,9 +35,16 @@ I work with a variety of tools and technologies to build efficient solutions. He
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
----
-
+<br/>
 ## 📊 My Github Stats
 
    <br/>
@@ -46,11 +55,3 @@ I work with a variety of tools and technologies to build efficient solutions. He
 
 <br/>
 <br/>
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HYDRO2070">
-</a>
-<a href="https://github.com/HYDRO2070?tab=followers"><img src="https://img.shields.io/github/followers/HYDRO2070?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
