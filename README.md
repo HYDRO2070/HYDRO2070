@@ -7,7 +7,6 @@
 ### 🌱 **Programmer | Developer | Learner**  
 I'm passionate about coding, building innovative solutions, and continuously learning. Currently diving deep into **Three.js**!
 
-<br/>
 ### 📫 **Reach Out**  
 You can reach me via [Email](mailto:s9098544118@gmail.com) or via my social profiles below:
 <br/>
