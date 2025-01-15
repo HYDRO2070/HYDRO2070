@@ -48,6 +48,6 @@ I work with a variety of tools and technologies to build efficient solutions. He
 
 ### 📈 **GitHub Contributions**
 
-![Shashank's Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=hydro2070&theme=github&hide_border=true)
+![Shashank's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=hydro2070&theme=dark)
 
 
