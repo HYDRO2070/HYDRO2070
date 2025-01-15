@@ -11,23 +11,12 @@ You can reach me via [Email](mailto:s9098544118@gmail.com) or via my social prof
 ---
 
 ### 📡 **Connect with Me**
-<p>
-  <a href="https://linkedin.com/in/shashankpandey2070" target="_blank">
-    ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-  </a>
-  <a href="https://stackoverflow.com/users/21217446/shashank-pandey" target="_blank">
-    ![Stack Overflow](https://img.shields.io/badge/StackOverflow-FFC107?style=flat&logo=stackoverflow&logoColor=white)
-  </a>
-  <a href="https://www.hackerrank.com/hydro2070" target="_blank">
-    ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)
-  </a>
-  <a href="https://codeforces.com/profile/s9098544118" target="_blank">
-    ![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC8?style=flat&logo=codeforces&logoColor=white)
-  </a>
-  <a href="https://www.leetcode.com/hydro2070" target="_blank">
-    ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpandey2070)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FFC107?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21217446/shashank-pandey)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hydro2070)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC8?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/s9098544118)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/hydro2070)
 
 ---
 
