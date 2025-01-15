@@ -1,9 +1,7 @@
-# 👋 Hi, I'm **Shashank Pandey**!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Shashank Pandey</b></h1>
 
 ### 🌱 **Programmer | Developer | Learner**  
 I'm passionate about coding, building innovative solutions, and continuously learning. Currently diving deep into **Three.js**!
-
-![Animated Banner](https://media.giphy.com/media/Yl43d90XMPvko/giphy.gif)
 
 ---
 
@@ -38,14 +36,21 @@ I work with a variety of tools and technologies to build efficient solutions. He
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 My Github Stats
 
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hydro2070&show_icons=true&count_private=true&theme=radical)
+   <br/>
+<a href="https://github.com/HYDRO2070/github-readme-stats"><img alt="Shashank Pandey Github Stats" src="https://github-readme-stats.vercel.app/api?username=HYDRO2070&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/HYDRO2070/github-readme-stats"><img alt="Shashank Pandey Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYDRO2070&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![](https://visitcount.itsvg.in/api?id=HYDRO2070&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+<br/>
 
-### 📈 **GitHub Contributions**
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=HYDRO2070">
+</a>
+<a href="https://github.com/HYDRO2070?tab=followers"><img src="https://img.shields.io/github/followers/HYDRO2070?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Shashank's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=hydro2070&theme=dark)
 
 
