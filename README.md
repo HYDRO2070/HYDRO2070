@@ -5,23 +5,6 @@ I'm passionate about coding, building innovative solutions, and continuously lea
 
 ---
 
-### 📚 **My Learning Journey**
-I'm currently focused on improving my skills in **3D development with Three.js**, while constantly honing my problem-solving skills in **Data Structures & Algorithms (DSA)**.
-
----
-
-### 💻 **Find My Projects**  
-All my projects can be explored on [GitHub](https://github.com/HYDRO2070). Feel free to check out my work and contribute!
-
----
-
-### 🗨️ **Ask Me About**
-- **Data Structures & Algorithms (DSA)**
-- **Web Development**  
-- **Tech Trends and New Technologies**
-
----
-
 ### 📫 **Reach Out**  
 You can reach me via [Email](mailto:s9098544118@gmail.com) or via my social profiles below:
 
@@ -73,38 +56,6 @@ I work with a variety of tools and technologies to build efficient solutions. He
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydro2070&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
-
----
-
-### 🚀 **Latest Projects**
-Check out some of my recent projects:
-
-- **[Project Name 1](link)** – Description of the project here.
-- **[Project Name 2](link)** – Description of the project here.
-- **[Project Name 3](link)** – Description of the project here.
-
----
-
-### 📝 **Blog & Tutorials**
-I enjoy writing technical blogs and tutorials. Here are some of the recent articles I've published:
-
-- [Article 1: Understanding React](link)
-- [Article 2: Getting Started with Node.js](link)
-- [Article 3: Basics of Three.js](link)
-
----
-
-### 🏆 **Achievements & Certifications**
-Here are some of the highlights of my journey:
-
-- **Top 5%** on [HackerRank](https://www.hackerrank.com/hydro2070)
-- **Certified in Python Programming** by [XYZ Institute](link)
-- **Winner** of [Hackathon 2023](link)
-
----
-
-### 📈 **Let's Collaborate!**
-If you're interested in collaborating on exciting projects or sharing knowledge, feel free to reach out. I love working with passionate people!
 
 ---
 
