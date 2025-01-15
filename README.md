@@ -1,125 +1,111 @@
-<h1 align="center">Hi 👋, I'm Shashank Pandey</h1>
-<h3 align="center">Programmer | Developer | Learner</h3>
+# 👋 Hi, I'm **Shashank Pandey**!
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hydro2070&label=Profile%20views&color=0e75b6&style=flat" alt="hydro2070" />
-</p>
+### 🌱 **Programmer | Developer | Learner**  
+I'm passionate about coding, building innovative solutions, and continuously learning. Currently diving deep into **Three.js**!
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hydro2070" alt="hydro2070" />
-  </a>
-</p>
+---
 
-- 🌱 I’m currently learning **Three.js**  
-- 👨‍💻 All of my projects are available at [HERE](https://github.com/HYDRO2070)
-- 💬 Ask me about **DSA**
-- 📫 How to reach me: [s9098544118@gmail.com](mailto:s9098544118@gmail.com)
+### 📚 **My Learning Journey**
+I'm currently focused on improving my skills in **3D development with Three.js**, while constantly honing my problem-solving skills in **Data Structures & Algorithms (DSA)**.
 
-### 📱 Connect with me:
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/shashankpandey2070" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankpandey2070" height="30" width="40" />
+### 💻 **Find My Projects**  
+All my projects can be explored on [GitHub](https://github.com/HYDRO2070). Feel free to check out my work and contribute!
+
+---
+
+### 🗨️ **Ask Me About**
+- **Data Structures & Algorithms (DSA)**
+- **Web Development**  
+- **Tech Trends and New Technologies**
+
+---
+
+### 📫 **Reach Out**  
+You can reach me via [Email](mailto:s9098544118@gmail.com) or via my social profiles below:
+
+---
+
+### 📡 **Connect with Me**
+<p>
+  <a href="https://linkedin.com/in/shashankpandey2070" target="_blank">
+    ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
   </a>
-  <a href="https://stackoverflow.com/users/21217446/shashank-pandey" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21217446/shashank-pandey" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/21217446/shashank-pandey" target="_blank">
+    ![Stack Overflow](https://img.shields.io/badge/StackOverflow-FFC107?style=flat&logo=stackoverflow&logoColor=white)
   </a>
-  <a href="https://www.hackerrank.com/hydro2070" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hydro2070" height="30" width="40" />
+  <a href="https://www.hackerrank.com/hydro2070" target="_blank">
+    ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)
   </a>
-  <a href="https://codeforces.com/profile/s9098544118" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s9098544118" height="30" width="40" />
+  <a href="https://codeforces.com/profile/s9098544118" target="_blank">
+    ![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC8?style=flat&logo=codeforces&logoColor=white)
   </a>
-  <a href="https://www.leetcode.com/hydro2070" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hydro2070" height="30" width="40" />
+  <a href="https://www.leetcode.com/hydro2070" target="_blank">
+    ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ **Languages & Tools**
+I work with a variety of tools and technologies to build efficient solutions. Here’s a quick look at my skill set:
 
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 **GitHub Stats**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hydro2070&show_icons=true&locale=en&layout=compact" alt="hydro2070" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydro2070&show_icons=true&locale=en&count_private=true&hide=prs&theme=github_dark" alt="Shashank's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hydro2070&show_icons=true&locale=en" alt="hydro2070" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydro2070&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
+
+---
+
+### 🚀 **Latest Projects**
+Check out some of my recent projects:
+
+- **[Project Name 1](link)** – Description of the project here.
+- **[Project Name 2](link)** – Description of the project here.
+- **[Project Name 3](link)** – Description of the project here.
+
+---
+
+### 📝 **Blog & Tutorials**
+I enjoy writing technical blogs and tutorials. Here are some of the recent articles I've published:
+
+- [Article 1: Understanding React](link)
+- [Article 2: Getting Started with Node.js](link)
+- [Article 3: Basics of Three.js](link)
+
+---
+
+### 🏆 **Achievements & Certifications**
+Here are some of the highlights of my journey:
+
+- **Top 5%** on [HackerRank](https://www.hackerrank.com/hydro2070)
+- **Certified in Python Programming** by [XYZ Institute](link)
+- **Winner** of [Hackathon 2023](link)
+
+---
+
+### 📈 **Let's Collaborate!**
+If you're interested in collaborating on exciting projects or sharing knowledge, feel free to reach out. I love working with passionate people!
+
+---
+
+Thanks for checking out my profile. Stay tuned for more updates! 😊
