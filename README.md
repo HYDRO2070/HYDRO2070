@@ -19,7 +19,8 @@ You can reach me via [Email](mailto:s9098544118@gmail.com) or via my social prof
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC8?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/s9098544118)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/hydro2070)
 
-<br/>
+
+
 ### 🛠️ **Languages & Tools**  
 I work with a variety of tools and technologies to build efficient solutions. Here’s a quick look at my skill set:
 
@@ -41,9 +42,8 @@ I work with a variety of tools and technologies to build efficient solutions. He
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-<br/>
+
 ## 📊 My Github Stats
 
    <br/>
