@@ -18,6 +18,9 @@ You can reach me via [Email](mailto:shashankpandey2070@gmail.com) or via my soci
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hydro2070)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC8?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/s9098544118)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/hydro2070)
+[![GreekForGrek](https://img.shields.io/badge/GreekForGrek-0072b1?style=flat&logo=greek&logoColor=white)](https://www.geeksforgeeks.org/user/s90985pcxa/)
+[![CodingNinjas](https://img.shields.io/badge/CodingNinjas-FF6D00?style=flat&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/saiba)
+
 
 
 
